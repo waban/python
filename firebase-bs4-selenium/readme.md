@@ -62,7 +62,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## License
 
-This project is licensed under the MIT License - see the [GNU v3.0](https://github.com/waban/python/blob/master/LICENSE) file for details
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.MD](https://github.com/waban/python/blob/master/LICENSE) file for details
 
 ## Acknowledgments
 
